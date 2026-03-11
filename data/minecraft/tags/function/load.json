@@ -1,5 +1,6 @@
 {
         "values": [
-        "aren:load"
+        "parry:init",
+        "customdimension:load"
     ]
 }

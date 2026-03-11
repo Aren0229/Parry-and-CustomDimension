@@ -1,1 +1,0 @@
-tellraw @a {"text":"Loading AREN...","color":"green","bold":true}

@@ -1,0 +1,8 @@
+scoreboard objectives add parry.clicks minecraft.used:carrot_on_a_stick "Parry Clicks"
+scoreboard objectives add parry.cooldown dummy "Parry Cooldown"
+scoreboard objectives add parry.window dummy "Parry Window"
+scoreboard objectives add temp_arrows dummy "Temp Arrows"
+scoreboard objectives add vel_x dummy "Velocity X"
+scoreboard objectives add vel_y dummy "Velocity Y"
+scoreboard objectives add vel_z dummy "Velocity Z"
+scoreboard objectives add multiplier dummy "Multiplier"
