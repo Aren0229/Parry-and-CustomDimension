@@ -4,7 +4,7 @@ A Minecraft datapack featuring a **Parry System** and a **Custom Dimension** wit
 
 ## Features
 
-### 🛡️ Parry System
+### Parry System
 
 A skill-based combat mechanic that allows players to parry incoming projectiles and attacks when wielding a sword.
 
@@ -23,7 +23,7 @@ A skill-based combat mechanic that allows players to parry incoming projectiles 
   - Golden Sword
   - Netherite Sword
 
-### 🌍 Custom Dimension
+### Custom Dimension
 
 A custom overworld-type dimension with unique world generation settings and biome:
 
